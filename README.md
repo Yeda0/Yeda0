@@ -29,4 +29,4 @@
  <a href="https://discord.gg/teVgj7X2" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/lucas-gon%C3%A7alves-91113b1b3/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
  </div>
-![Snake animation](https://github.com/Yeda0/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/Yeda0/blob/output/github-contribution-grid-snake.svg)
