@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently learning React Native and Typescript
 - 🇧🇷 Brazilian
+- 🚀 Ignite 🔥 React native student at Rocketseat
 
  <div>
   <a href="https://github.com/Yeda0">
