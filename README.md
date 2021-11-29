@@ -1,8 +1,8 @@
 ### Hi, i'm Lucas Gonçalves
 
-- 🌱 I’m currently learning React Native and Typescript
+- 🌱 Front-end developer 
 - 🇧🇷 Brazilian
-- 🚀 Ignite 🔥 React native student at Rocketseat
+- 🚀 Ignite 🔥 student at Rocketseat
 
  <div>
   <a href="https://github.com/Yeda0">
