@@ -2,7 +2,6 @@
 
 - 🌱 Front-end developer 
 - 🇧🇷 Brazilian
-- Curious about backend
 - Computer science student
 - 🚀 Ignite 🔥 student at Rocketseat
 
