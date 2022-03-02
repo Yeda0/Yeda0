@@ -5,6 +5,10 @@
 - Computer science student
 - 🚀 Ignite 🔥 student at Rocketseat
 
+<div>
+  <img src="https://i.gifer.com/origin/c9/c90a6f609a7d9f3a682ee3c86bf57d33_w200.gif" /> 
+</div>
+
  <div>
   <a href="https://github.com/Yeda0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yeda0&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
