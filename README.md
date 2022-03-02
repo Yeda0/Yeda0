@@ -6,7 +6,7 @@
 - 🚀 Ignite 🔥 student at Rocketseat
 
 <div>
-  <img src="https://i.gifer.com/origin/c9/c90a6f609a7d9f3a682ee3c86bf57d33_w200.gif" /> 
+  <img src="https://64.media.tumblr.com/3a7586546caaea16708b79dda8021f8c/7d985ccd0acec5fc-70/s500x750/f559b98f4991fba340e6e86ca021cd78a6c4cbd6.gifv" /> 
 </div>
 
  <div>
