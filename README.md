@@ -5,7 +5,8 @@
 - Computer science student
 - 🚀 Ignite 🔥 student at Rocketseat
 
-<div>
+<div style="display:flex">
+  <div>
   <img src="https://64.media.tumblr.com/3a7586546caaea16708b79dda8021f8c/7d985ccd0acec5fc-70/s500x750/f559b98f4991fba340e6e86ca021cd78a6c4cbd6.gifv" /> 
 </div>
 
@@ -14,6 +15,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yeda0&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeda0&layout=compact&langs_count=7&theme=omni"/>
 </div>
+  </div>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
