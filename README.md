@@ -7,7 +7,7 @@
 
 
   
-  <img widht="20px" height="20px" align="right" src="https://64.media.tumblr.com/3a7586546caaea16708b79dda8021f8c/7d985ccd0acec5fc-70/s500x750/f559b98f4991fba340e6e86ca021cd78a6c4cbd6.gifv" /> 
+  <img widht="100px" height="100px" align="right" src="https://64.media.tumblr.com/3a7586546caaea16708b79dda8021f8c/7d985ccd0acec5fc-70/s500x750/f559b98f4991fba340e6e86ca021cd78a6c4cbd6.gifv" /> 
 
  <div>
   <a href="https://github.com/Yeda0">
