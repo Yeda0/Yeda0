@@ -5,7 +5,7 @@
 - Computer science student
 - 🚀 Ignite 🔥 student at Rocketseat
 
-  <img align="right" src="https://i.pinimg.com/originals/79/66/cd/7966cdea7f9a9830f8018101683a0ff8.gif" /> 
+  <img height="300px" align="right" src="https://i.pinimg.com/originals/79/66/cd/7966cdea7f9a9830f8018101683a0ff8.gif" /> 
   
 
 
