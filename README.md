@@ -5,13 +5,13 @@
 - Computer science student
 - 🚀 Ignite 🔥 student at Rocketseat
 
-  <img align="left" height="300px" width="300px" align="right" src="http://pa1.narvii.com/6805/560eef48729ac68a0404dc22ee837de9986e6638_00.gif" /> 
+  <img align="left" height="300px" width="400px" align="right" src="http://pa1.narvii.com/6805/560eef48729ac68a0404dc22ee837de9986e6638_00.gif" /> 
   
 
 
  <div>
   <a href="https://github.com/Yeda0">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yeda0&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeda0&layout=compact&langs_count=7&theme=omni"/>
 </div>
 
