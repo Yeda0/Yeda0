@@ -1,9 +1,13 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Gonçalves</h1>
 
-- 🌱 Front-end developer 
-- 🇧🇷 Brazilian
-- Computer science student
-- 🚀 Ignite 🔥 student at Rocketseat
+<h3>- 🌱 Front-end developer<h3/>
+ <h3>- 🇧🇷 Brazilian<h3/>
+ <h3>- Computer science student<h3/>
+ <h3>- - 🚀 Ignite 🔥 student at Rocketseat<h3/>
+        
+
+
+
 
   <img align="left" height="300px" width="400px" align="right" src="http://pa1.narvii.com/6805/560eef48729ac68a0404dc22ee837de9986e6638_00.gif" /> 
   
