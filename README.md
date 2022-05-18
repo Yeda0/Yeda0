@@ -48,4 +48,4 @@
  </div>
 
  
-![Snake animation](https://github.com/Yeda0/Yeda0/blob/output/github-contribution-grid-snake.svg)
+
