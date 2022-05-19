@@ -1,5 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Gonçalves</h1>
-<div style="display: flex;">
+
  <div>
  
 <h3>- 🌱 Front-end developer<h3/>
@@ -8,7 +8,7 @@
  <h3>- 🚀 Ignite 🔥 student at Rocketseat<h3/>
 </div>
   
-<div>   <img align="right" width="500px" height="500px"  src="https://66.media.tumblr.com/d8c347cf3e03580d0cf07b9f87cc0147/tumblr_mirqjfhcBM1rfjowdo1_640.gif" alt="">
+<div>   <img align="right" width="500px" height="500px"  src="[https://66.media.tumblr.com/d8c347cf3e03580d0cf07b9f87cc0147/tumblr_mirqjfhcBM1rfjowdo1_640.gif](https://i.pinimg.com/originals/10/d5/1a/10d51aa37731b05a5d085e15186e211c.gif)" alt="">
   <div>
 <div>
       
