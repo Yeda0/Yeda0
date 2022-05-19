@@ -8,7 +8,7 @@
  <h3>- 🚀 Ignite 🔥 student at Rocketseat<h3/>
 </div>
   
-  <img align="right" width="500px" height="500px"  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f4b50571097767.5bb9fee9d515c.gif" alt="">
+  <img  width="500px" height="500px"  src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/f4b50571097767.5bb9fee9d515c.gif" alt="">
   <div>
 
       
