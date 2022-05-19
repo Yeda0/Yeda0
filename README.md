@@ -4,15 +4,7 @@
  <h3>- 🇧🇷 Brazilian<h3/>
  <h3>- Computer science student<h3/>
  <h3>- 🚀 Ignite 🔥 student at Rocketseat<h3/>
-        
-
-
-
-
-  <img align="left" height="300px" width="400px" align="right" src="http://pa1.narvii.com/6805/560eef48729ac68a0404dc22ee837de9986e6638_00.gif" /> 
-  
-
-
+      
  <div>
   <a href="https://github.com/Yeda0">
 
