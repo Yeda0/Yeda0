@@ -4,6 +4,9 @@
  <h3>- 🇧🇷 Brazilian<h3/>
  <h3>- Computer science student<h3/>
  <h3>- 🚀 Ignite 🔥 student at Rocketseat<h3/>
+  
+  <img src="https://66.media.tumblr.com/d8c347cf3e03580d0cf07b9f87cc0147/tumblr_mirqjfhcBM1rfjowdo1_640.gif" alt="">
+ 
       
  <div>
   <a href="https://github.com/Yeda0">
