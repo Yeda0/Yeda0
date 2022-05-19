@@ -8,7 +8,9 @@
  <div>
   <a href="https://github.com/Yeda0">
    
-   <div> <h1> Quem sou eu </h1> </div>
+   <div> <h1>Who am I?</h1>
+    <p> Passionate about technology since I was a child, I always liked to create things that pop into my head, this was the main reason to enter the world of programming. I deliver quality projects to satisfy the end customer as much as possible. </p>
+   </div>
 
   <div style="display:inline-block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
