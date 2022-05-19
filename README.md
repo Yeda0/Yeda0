@@ -1,5 +1,6 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Lucas Gonçalves</h1>
-<div>
+<div style="display: flex;">
+ <div>
  
 <h3>- 🌱 Front-end developer<h3/>
  <h3>- 🇧🇷 Brazilian<h3/>
@@ -9,6 +10,7 @@
   
 <div>   <img align="right" width="500px" height="500px"  src="https://66.media.tumblr.com/d8c347cf3e03580d0cf07b9f87cc0147/tumblr_mirqjfhcBM1rfjowdo1_640.gif" alt="">
   <div>
+<div>
       
  <div>
   <a href="https://github.com/Yeda0">
