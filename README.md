@@ -5,7 +5,6 @@
 <h3>- 🌱 Front-end developer<h3/>
  <h3>- 🇧🇷 Brazilian<h3/>
  <h3>-🎓 Graduating in Software Analysis and Development <h3/>
- <h3>- 🚀 Ignite 🔥 student at Rocketseat<h3/>
 </div>
   
 
