@@ -38,8 +38,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="350em" src="https://github-readme-stats.vercel.app/api?username=Yeda0&show_icons=true&theme=vision-friendly-dark" alt="Yeda0's stats"/>
-<img width="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeda0&layout=compact&theme=vision-friendly-dark" alt="Yeda0's most languages"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api?username=Yeda0&show_icons=true&theme=vision-friendly-dark" alt="Yeda0's stats"/>
+<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeda0&layout=compact&theme=vision-friendly-dark" alt="Yeda0's most languages"/>
 </p>
 
 <br><br>
