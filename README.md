@@ -1,6 +1,6 @@
 
-<img align="right" height="590em" src="https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif">
-<h1 align="left">Hi <img height="300px" width="300px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height= "30px" width="30px">, I'm Lucas Gonçalves</h1>
+<img height="300px" width="300px" align="right" height="590em" src="https://i.pinimg.com/originals/99/8e/05/998e055aba57c24138220937cc5166ab.gif">
+<h1 align="left">Hi <img  src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height= "30px" width="30px">, I'm Lucas Gonçalves</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yeda0&color=yellow" alt="Profile views" /> </p>
  
 - 🔥 Júnior Web Developer and Mobile 
