@@ -46,7 +46,7 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <a href="https://www.linkedin.com/in/lucasgon1/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-lucas-goncalves-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin"/>
 </a>
       
  
