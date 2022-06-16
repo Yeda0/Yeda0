@@ -43,6 +43,10 @@
 
 <br><br>
 
+## 👨🏽‍🦲 &nbsp;Social Links
 
+<a href="https://www.linkedin.com/in/lucasgon1/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
       
  
