@@ -32,6 +32,17 @@
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </p>
 
+<br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=Yeda0&show_icons=true&theme=vision-friendly-dark" alt="Yeda0's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeda0&layout=compact&theme=vision-friendly-dark" alt="Yeda0's most languages"/>
+</p>
+
+<br><br>
+
 
       
  
