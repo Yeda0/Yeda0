@@ -3,10 +3,10 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height= "30px" width="30px">, I'm Lucas Gonçalves</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yeda0&color=yellow" alt="Profile views" /> </p>
  
-<h3>- 🌱 Front-end developer<h3/>
- <h3>- 🇧🇷 Brazilian<h3/>
- <h3>-🎓 Graduating in Software Analysis and Development <h3/>
-</div>
+- 🔥 Júnior Web Developer and Mobile 🇧🇷
+- 🇧🇷 Brazilian
+-🎓 Graduating in Software Analysis and Development 
+
   
 
 
