@@ -1,5 +1,5 @@
 
-<img align="right" height="590em" src="blob:https://web.whatsapp.com/03876162-b0f0-4572-914b-2075ccfdb64b"/>
+<img align="right" height="590em" src="https://br.pinterest.com/pin/856669160364505453/">
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height= "30px" width="30px">, I'm Lucas Gonçalves</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yeda0&color=yellow" alt="Profile views" /> </p>
  
