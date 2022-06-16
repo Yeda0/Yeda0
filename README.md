@@ -46,7 +46,7 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <a href="https://www.linkedin.com/in/lucasgon1/" target="_blank">
-  <img align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin"/>
+  <img height="30" width="40" align="center"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin"/>
 </a>
       
  
