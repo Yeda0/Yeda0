@@ -10,7 +10,7 @@
 - 🔭 I’m currently working at Vsoft 
 
 
-<br><br>
+
 
 ## 🛠 &nbsp;Tech Stack
 
