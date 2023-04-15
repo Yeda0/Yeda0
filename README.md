@@ -7,7 +7,7 @@
 - 🔥 Júnior Front end and game developer 
 - 🇧🇷 Brazilian
 - 🎓 Graduating in Software Analysis and Development
-- 🔭 I’m currently working at Vsoft 
+
 
 
 <br>
