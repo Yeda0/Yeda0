@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yeda0&color=yellow" alt="Profile views" /> </p>
 
  
-- 🔥 Júnior Front end and game developer 
+- 🔥 Game Developer 
 - 🇧🇷 Brazilian
 - 🎓 Graduating in Software Analysis and Development
 
